@@ -1,0 +1,14 @@
+color:
+  brandColors:
+    - '#EEEFEA'
+    - '#C0C2C1'
+    - '#E1E1DF'
+    - '#ACADA8'
+    - '#8F6A58'
+  brandStrength: 0.2635
+  lightness: 0.266004
+  rhythmicContrast: 0.423423
+  saturation: 0.476049
+layout_spectrum: 0
+name: Sukeina
+typography_spectrum: 1
